@@ -49,7 +49,7 @@ Critical Thinking and Analysis:
 ## Steps
 ### Step 1: Access the template
 To use the template for this course item, click the link below and select Use Template.
-  * Link to template: <a href="https://docs.google.com/presentation/d/1s8zt0uWIZEz8BeR_esOvrK5u0FGy7ij3/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Pyramid of Pai/a>
+  * Link to template: <a href="https://docs.google.com/presentation/d/1s8zt0uWIZEz8BeR_esOvrK5u0FGy7ij3/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Pyramid of Pain</a>
 
 ### Step 2: Review the details of the alert
 The following information contains details about the alert that will help you complete this activity. The details include a file hash and a timeline of the event. Keep these details for reference as you proceed to the next steps.
@@ -94,7 +94,7 @@ In the first slide of your Pyramid of Pain template, indicate whether this file 
 ### Step 6: Fill in the template with additional indicators of compromise (IoC)
 After you've explored the sections in the VirusTotal report, you will uncover additional IoCs that are associated with the file according to the VirusTotal report.
 
-Identify three indicators of compromise (IoCs) that are associated with this file hash using the tabs in the VirusTotal report. Then, enter the IoCs into their respective sections in the Pyramid of Pain template.
+Identify three indicators of compromise (IoCs) that are associated with this file hash using the tabs in the VirusTotal report. Then, enter the IoCs into their respective sections in the <a href="https://docs.google.com/presentation/d/1s8zt0uWIZEz8BeR_esOvrK5u0FGy7ij3/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Pyramid of Pain</a> template.
 
 Indicators of compromise are valuable sources of information for security professionals because they are used to identify malicious activity. You can choose to identify any three of the six types of IoCs found in the Pyramid of Pain: 
 
